@@ -1,0 +1,12 @@
+## ALGORITMA ##
+
+
+1. Inisialisasi kamus `mahasiswa untuk menyimpan data mahasiswa.
+
+2. Definisikan fungsi 'tambah_mahasiswa()`, `tampilkan_semua()`, `hapus_mahasiswa()', dan `ubah_nilai()`.
+
+3. Masuki loop 'while True' untuk menampilkan menu interaktif dan menerima input pilihan dari pengguna.
+
+4. Berdasarkan pilihan pengguna, panggil fungsi yang sesuai.
+
+5. Jika pengguna memilih untuk keluar, hentikan loop 'while' dan akhiri program.
